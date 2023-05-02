@@ -1,0 +1,19 @@
+{
+  "name": "@vyacheslavbakashov/ajs",
+  "version": "1.0.0",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VyacheslavBakashov/ajs.git"
+  },
+  "bugs": {
+    "url": "https://github.com/VyacheslavBakashov/ajs/issues"
+  },
+  "homepage": "https://github.com/VyacheslavBakashov/ajs#readme",
+  "description": ""
+}
